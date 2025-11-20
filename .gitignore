@@ -17,11 +17,10 @@ venv/
 
 # HDFS-related cached dirs
 projects/
-hdfs/
+
 
 # Streamlit cache
 .streamlit/
 
 # Raw input data 
-raw/
-data/
+
